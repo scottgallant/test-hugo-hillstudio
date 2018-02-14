@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Hill Sound Studio</title>
+    <link>http://scottgallant.github.io/</link>
+    <description>Recent content on The Hill Sound Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Mar 2016 16:17:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://scottgallant.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello</title>
+      <link>http://scottgallant.github.io/blog/hello/</link>
+      <pubDate>Thu, 24 Mar 2016 16:17:00 +0000</pubDate>
+      
+      <guid>http://scottgallant.github.io/blog/hello/</guid>
+      <description>kjgljhlkjh</description>
+    </item>
+    
+    <item>
+      <title>branch</title>
+      <link>http://scottgallant.github.io/blog/branch/</link>
+      <pubDate>Thu, 24 Mar 2016 16:13:00 +0000</pubDate>
+      
+      <guid>http://scottgallant.github.io/blog/branch/</guid>
+      <description>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie augue sit amet leo consequat posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin vel ante a orci tempus eleifend ut et magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra.</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://scottgallant.github.io/blog/test/</link>
+      <pubDate>Sat, 19 Mar 2016 22:05:00 +0000</pubDate>
+      
+      <guid>http://scottgallant.github.io/blog/test/</guid>
+      <description>Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor.</description>
+    </item>
+    
+    <item>
+      <title>test gh</title>
+      <link>http://scottgallant.github.io/blog/test-gh/</link>
+      <pubDate>Thu, 10 Mar 2016 13:36:43 -0400</pubDate>
+      
+      <guid>http://scottgallant.github.io/blog/test-gh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hearing</title>
+      <link>http://scottgallant.github.io/blog/hearing/</link>
+      <pubDate>Tue, 08 Mar 2016 22:20:00 +0000</pubDate>
+      
+      <guid>http://scottgallant.github.io/blog/hearing/</guid>
+      <description>Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui.</description>
+    </item>
+    
+    <item>
+      <title>test-draft</title>
+      <link>http://scottgallant.github.io/blog/test-draft/</link>
+      <pubDate>Fri, 05 Feb 2016 20:44:00 +0000</pubDate>
+      
+      <guid>http://scottgallant.github.io/blog/test-draft/</guid>
+      <description>Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</description>
+    </item>
+    
+    <item>
+      <title>post with draft false</title>
+      <link>http://scottgallant.github.io/blog/post-with-draft-false/</link>
+      <pubDate>Thu, 04 Feb 2016 17:03:33 -0400</pubDate>
+      
+      <guid>http://scottgallant.github.io/blog/post-with-draft-false/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://scottgallant.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://scottgallant.github.io/about/</guid>
+      <description>Cool  Ut in nulla enim Suspendisse dictum feugiat Phasellus molestie magna  Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://scottgallant.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://scottgallant.github.io/contact/</guid>
+      <description>syeah</description>
+    </item>
+    
+    <item>
+      <title>Sounds</title>
+      <link>http://scottgallant.github.io/sounds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://scottgallant.github.io/sounds/</guid>
+      <description>#heading
+Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus.</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>http://scottgallant.github.io/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://scottgallant.github.io/team/</guid>
+      <description>asdf
+adsf</description>
+    </item>
+    
+  </channel>
+</rss>
