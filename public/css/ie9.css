@@ -1,0 +1,11 @@
+/*
+	Arcana by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+*/
+
+/* Header */
+
+	#nav > ul > li.current:before {
+		display: none;
+	}
